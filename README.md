@@ -5,4 +5,4 @@ The source for colon.txt:
 
 <a href="http://courses.washington.edu/b517/Datasets/colon.txt">Colon Dataset</a>
 
-> Subitted: 30/07/2021
+> Submitted: 30/07/2021
